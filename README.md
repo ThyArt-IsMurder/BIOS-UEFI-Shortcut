@@ -1,6 +1,7 @@
 # Restart Windows into BIOS/UEFI Settings
 
 This guide explains how to restart a Windows computer directly into the BIOS/UEFI firmware settings using a command in an administrator Command Prompt.
+### ❗Be cautious when using this, as it will force an immediate restart without warning. Make sure to save any unsaved work before running it.‼️
 
 ## Steps:
 
