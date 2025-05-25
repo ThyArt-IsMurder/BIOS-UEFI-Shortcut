@@ -50,5 +50,6 @@ You can also create a shortcut on your desktop to directly execute this command.
 
 ![image](https://github.com/user-attachments/assets/7689d1b5-f5e2-480b-bf27-ca4ef2868679)
 
+![image](https://github.com/user-attachments/assets/f4226c29-088d-4f2a-962a-63041d54cdf0)
 
 To use the shortcut, right-click on it and select "Run as administrator" for faster access.
