@@ -54,6 +54,7 @@ You can also create a shortcut on your desktop to directly execute this command.
 ![image](https://github.com/user-attachments/assets/f4226c29-088d-4f2a-962a-63041d54cdf0)
 
 To use the shortcut, right-click on it and select "Run as administrator" for faster access.
+### 📌Shortcut File: [Download](https://github.com/ThyArt-IsMurder/Windows-BIOS-UEFI-Shortcut/releases/download/v1/BIOS-UEFI.settings.exe)
 
 
 ##
@@ -74,3 +75,5 @@ If timeout is greater than zero, then /f is implied. So:
 shutdown /r /fw /f /t 0 = restart to BIOS immediately.
 
 shutdown /r /fw /t 5 = restart to BIOS in 5 seconds.
+
+### 📌batch file: [Download](https://github.com/ThyArt-IsMurder/Windows-BIOS-UEFI-Shortcut/releases/download/v1/restart_to_BIOS-UEFI.bat)
