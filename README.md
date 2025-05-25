@@ -53,3 +53,23 @@ You can also create a shortcut on your desktop to directly execute this command.
 ![image](https://github.com/user-attachments/assets/f4226c29-088d-4f2a-962a-63041d54cdf0)
 
 To use the shortcut, right-click on it and select "Run as administrator" for faster access.
+
+
+##
+### Create a batch file with this simple command:
+
+shutdown /r /fw /f /t 0 (That’s zero, with a space between the /t and zero.)
+
+/r = restart
+
+/fw = restart into BIOS
+
+/f = force apps to stop
+
+/t = timeout (zero = immediately)
+
+If timeout is greater than zero, then /f is implied. So:
+
+shutdown /r /fw /f /t 0 = restart to BIOS immediately.
+
+shutdown /r /fw /t 5 = restart to BIOS in 5 seconds.
