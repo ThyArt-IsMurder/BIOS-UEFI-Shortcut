@@ -58,7 +58,7 @@ To use the shortcut, right-click on it and select "Run as administrator" for fas
 ##
 ### Create a batch file with this simple command:
 
-shutdown /r /fw /f /t 0 (That’s zero, with a space between the /t and zero.)
+```shutdown /r /fw /f /t 0``` (That’s zero, with a space between the /t and zero.)
 
 /r = restart
 
